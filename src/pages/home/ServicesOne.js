@@ -19,8 +19,8 @@ const ServicesOne = ( ) => {
                     <span className="section-title__tagline">LATEST SERVICE</span>
                     </div>
                     <h2 className="section-title__title">
-                    Your supply chain partner
-                    <br /> for success
+                    AI-driven solutions, cloud-based platforms, 
+                    <br /> custom software development, cybersecurity enhancements
                     </h2>
                 </div>
                     <div className="row">

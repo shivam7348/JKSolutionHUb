@@ -11,8 +11,9 @@ const About = () => {
             <AboutOne 
                 className="about-one"
                 tagline="About Us"
-                title="Seamless logistics for your business needs"
-                description="Construction is an essential industry that involves building and designing structures such as buildings, roads, and bridges"
+                title="Welcome to JK SOLUTIONHUB
+"
+                description="JK SOLUTIONHUB is a forward-thinking software company dedicated to delivering exceptional technology solutions. With a strong commitment to quality and innovation, we help businesses thrive in the digital age by providing reliable and scalable services tailored to their unique needs."
                 listItems={[
                     { iconClass: "icon-conveyor-1", title: "Delivering success through logistics" },
                     { iconClass: "icon-clock", title: "Logistics expertise for your competitive edge" },

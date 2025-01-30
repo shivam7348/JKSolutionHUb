@@ -54,7 +54,7 @@ return (
             <div className="main-menu__left">
                 <div className="main-menu__logo">
                     <Link to="/">
-                        <img src={navImg} alt="Logo" />
+                    <img src={navImg} alt="Logo" style={{height: "65px"}}  />
                     </Link>
                 </div>
                 <div className="main-menu__main-menu-box">
@@ -84,7 +84,7 @@ return (
                     </div>
                     <div className="main-menu__btn-box">
                         <Link to="/about" className="thm-btn main-menu__btn">
-                            Read more
+                            Read More
                             <span />
                         </Link>
                     </div>
@@ -104,7 +104,7 @@ return (
                 <div className="main-menu__left">
                     <div className="main-menu__logo">
                         <Link to="/">
-                            <img src={navImg} alt="Logo" />
+                            <img src={navImg} alt="Logo" style={{height: "55px"}}  />
                         </Link>
                     </div>
                     <div className="main-menu__main-menu-box">
