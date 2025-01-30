@@ -4,9 +4,10 @@ import ServiceItem from '../../components/Service/ServiceItem';
 
 const ServicesOne = ( ) => {
     const services = [
-        { iconClass: 'icon-postbox', title: 'Fast and reliable logistics solutions', link: '/express-freight-solutions' },
+        { iconClass: 'icon-postbox', title: 'Custom Software Development', link: '/express-freight-solutions' },
         { iconClass: 'icon-customer-service', title: 'Bridges Construction is an essential industry', link: '/quick-move-logistics' },
         { iconClass: 'icon-container', title: 'That involves building and designing structures', link: '/speedy-dispatch' },
+        
     ];
     
     return (

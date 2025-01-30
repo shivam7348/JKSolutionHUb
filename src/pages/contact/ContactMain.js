@@ -25,11 +25,13 @@ const ContactMain = () => {
                         <div className="content">
                         <h3>Lets Talk us</h3>
                         <p>
-                            Phone number: <a href="tel:32566800890">+32566 - 800 - 890</a>
+                            Phone number: <a href="tel:8969361100">8969361100</a>
+                            <br/>
+                            Phone number: <a href="tel:7236941347">7236941347</a>
                         </p>
-                        <p>
-                            Fax: <a href="tel:123458963007">1234 -58963 - 007</a>
-                        </p>
+                        {/* <p>
+                            Fax: <a href="tel:8969361100">8969-361100</a>
+                        </p> */}
                         </div>
                     </li>
                     <li>
@@ -39,8 +41,8 @@ const ContactMain = () => {
                         <div className="content">
                         <h3>Address</h3>
                         <p>
-                            Dhaka 102, 8000 sent behaibior
-                            <br /> road 45 house of street
+                        Noida Sector 62 
+                            <br /> 201309
                         </p>
                         </div>
                     </li>
@@ -51,13 +53,13 @@ const ContactMain = () => {
                         <div className="content">
                         <h3>Send us email</h3>
                         <p>
-                            <a href="mailto:nafizislam1223@gmail.com">
-                            nafizislam1223@gmail.com
+                            <a href="mailto: jkdigitalsolutionhub@gmail.com">
+                            jkdigitalsolutionhub@gmail.com
                             </a>
                         </p>
-                        <p>
+                        {/* <p>
                             <a href="mailto:demo23gmail.com">demo23gmail.com</a>
-                        </p>
+                        </p> */}
                         </div>
                     </li>
                     </ul>

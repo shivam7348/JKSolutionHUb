@@ -13,17 +13,14 @@ const WhyChoose = () => {
                             <div className="why-choose-one__left">
                                 <div className="section-title text-left">
                                     <div className="section-title__tagline-box">
-                                        <span className="section-title__tagline">Why Choose us</span>
+                                        <span className="section-title__tagline">Why Choose JK Digital SolutionsHub?</span>
                                     </div>
                                     <h2 className="section-title__title">
-                                        Delivering excellence every a time Express Logistics
+                                    Web Development & Design:
                                     </h2>
                                 </div>
                                 <p className="why-choose-one__text">
-                                    Construction is an essential industry that involves building
-                                    adesigning the an structures such as buildings roads, bridges
-                                    Construction is an essent industry that involves building
-                                    adesigning the a structures such{" "}
+                                At JK Digital SolutionsHub, we are committed to delivering innovative, tailored, and results-driven digital solutions that empower businesses to thrive in today’s competitive landscape. Here’s why we stand out as your trusted partner:{" "}
                                 </p>
                                 <div className="why-choose-one__btn-box">
                                     <Link to="/about" className="thm-btn why-choose-one__btn">
@@ -37,15 +34,7 @@ const WhyChoose = () => {
                             <div className="why-choose-one__right">
                                 <div className="why-choose-one__img wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                                     <img src={WhyChooseImg1} alt="Why Choose Us" />
-                                    <div className="why-choose-one__delivery-box">
-                                        <div className="icon">
-                                            <span className="icon-airplane" />
-                                        </div>
-                                        <p>
-                                            2 DAYS
-                                            <br /> DELIVERY
-                                        </p>
-                                    </div>
+                                   
                                 </div>
                             </div>
                         </div>
