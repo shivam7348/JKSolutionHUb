@@ -9,6 +9,7 @@ const ServicesOne = ( ) => {
         { iconClass: 'icon-container', title: 'E-Commerce Solutions', link: '/speedy-dispatch' },
         { iconClass: 'icon-container', title: 'Mobile App Development', link: '/speedy-dispatch' },
         { iconClass: 'icon-container', title: 'Custom Software Solutions', link: '/speedy-dispatch' },
+        { iconClass: 'icon-container', title: 'Custom Software Solutions', link: '/speedy-dispatch' },
         
         
     ];
@@ -20,7 +21,7 @@ const ServicesOne = ( ) => {
                 <div className="container">
                 <div className="section-title text-center">
                     <div className="section-title__tagline-box">
-                    <span className="section-title__tagline">LATEST SERVICE</span>
+                    <span className="section-title__tagline">LATEST SERVICES</span>
                     </div>
                     <h2 className="section-title__title">
                     AI-driven solutions, cloud-based platforms, 
