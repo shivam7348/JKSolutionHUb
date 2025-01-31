@@ -7,10 +7,10 @@ import detailsImg from "../../assets/images/services/services-details-img-1.jpg"
 const SolutionsMain = () => {
   const client = {
     image: SabkibImg,
-    name: "Sakib al hasan",
-    title: "Brand Ambassador",
-    text: "Construction is an essential industry that the building and designing...",
-    phone: "+888123456765",
+    name: "RahAhmadullah",
+    title: "Manager",
+    text: "Transforming Businesses with Cutting-Edge Digital Solutions",
+    phone: "7236941347",
     socials: [
       { icon: "icon-instagram", link: "/blog-details" },
       { icon: "icon-facebook-f", link: "/blog-details" },
@@ -21,19 +21,19 @@ const SolutionsMain = () => {
 
   const services = [
     {
-      name: "Express Freight Solutions",
+      name: "Web Development & Design",
       link: "/express-freight-solutions",
       active: true,
     },
     {
-      name: "Quick Move Logistics",
+      name: "Digital Marketing ",
       link: "/quick-move-logistics",
       active: false,
     },
-    { name: "Speedy Dispatch", link: "/speedy-dispatch", active: false },
-    { name: "Swift Supply Chain", link: "/swift-supply-chain", active: false },
+    { name: "Mobile App Development", link: "/speedy-dispatch", active: false },
+    { name: "Custom Software Solutions", link: "/swift-supply-chain", active: false },
     {
-      name: "On Point Distribution",
+      name: "SEO",
       link: "/on-point-distribution",
       active: false,
     },
@@ -76,9 +76,9 @@ const SolutionsMain = () => {
 
   const faqData = [
     {
-      question: "What is a ProActive Transport?",
+      question: "What services does JK Digital SolutionsHub offer?",
       answer:
-        "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout...",
+        "We offer a wide range of digital solutions including: Web Design & Development",
     },
     {
       question: "How do I set up a Swift Warehousing Solutions?",

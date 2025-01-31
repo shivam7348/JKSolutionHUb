@@ -17,7 +17,7 @@ const BlogMain = () => {
     const blogs = [
         {
           imageUrl: LatestBlogs1,
-          date: 'Jan 10, 2022',
+          date: 'Jan , 2025',
           title: 'Optimize your logistics with our expertise',
           link: '/blog-details'
         },
@@ -58,10 +58,10 @@ const BlogMain = () => {
         {
           imageUrl: BlogImg1,
           date: '29 Jan 2024',
-          title: 'Creating Lasting Impressions',
+          title: "JK Digital SolutionsHub: Where Technology Meets Creativity",
           comments: 5,
           author: 'admin',
-          excerpt: 'Construction is an essential industry that involves building and designing structures such as buildings roads, bridges, and more. It requires skilled workers, materials, and careful',
+          excerpt: 'Your digital journey deserves a partner who understands your vision and has the expertise to bring it to life. JK Digital SolutionsHub empowers businesses with innovative solutions, tailored strategies, and a commitment to excellence, ensuring your success in the ever-evolving digital world.',
           postLink: '/blog-details',
           socialLinks: [
             { url: '/blog-details', iconClass: 'icon-instagram' },
