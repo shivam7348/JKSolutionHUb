@@ -73,13 +73,13 @@ export default function TestimonialSlider1() {
                         <span className="icon-star last-star" />
                     </div>
                     <h3 className="testimonial-one__client-name">
-                        Nafiz Bhuiyan
+                        RahahmadAbdullah
                     </h3>
                     <p className="testimonial-one__client-sub-title">
                         Manager
                     </p>
                     <p className="testimonial-one__text">
-                        Logistic service involves the planning implementation and control of the efficient and effective movement and storage of goods and materials.
+                    We are committed to delivering innovative, tailored, and results-driven digital solutions that empower businesses to thrive in today’s competitive landscape. Here’s why we stand out as your trusted partner:
                     </p>
                 </div>
             </SwiperSlide>
@@ -99,10 +99,10 @@ export default function TestimonialSlider1() {
                         <span className="icon-star last-star" />
                     </div>
                     <h3 className="testimonial-one__client-name">
-                        Robert Son
+                        Shivam Randhawa
                     </h3>
                     <p className="testimonial-one__client-sub-title">
-                        Manager
+                        Technial Head
                     </p>
                     <p className="testimonial-one__text">
                         Logistic service involves the planning implementation and control of the efficient and effective movement and storage of goods and materials.
@@ -125,10 +125,10 @@ export default function TestimonialSlider1() {
                         <span className="icon-star last-star" />
                     </div>
                     <h3 className="testimonial-one__client-name">
-                        Harbert Spin
+                        Pardeep Yadav
                     </h3>
                     <p className="testimonial-one__client-sub-title">
-                        Manager
+                        Backend Enginner 
                     </p>
                     <p className="testimonial-one__text">
                         Logistic service involves the planning implementation and control of the efficient and effective movement and storage of goods and materials.
@@ -151,10 +151,36 @@ export default function TestimonialSlider1() {
                         <span className="icon-star last-star" />
                     </div>
                     <h3 className="testimonial-one__client-name">
-                        Mainto Vula
+                        Brijesh Kushwaha 
                     </h3>
                     <p className="testimonial-one__client-sub-title">
-                        Manager
+                        Software Developer
+                    </p>
+                    <p className="testimonial-one__text">
+                        Logistic service involves the planning implementation and control of the efficient and effective movement and storage of goods and materials.
+                    </p>
+                </div>
+            </SwiperSlide>
+            <SwiperSlide className="swiper-slide">
+                <div className="testimonial-one__single">
+                    <div className="testimonial-one__quote">
+                        <span className="icon-quote" />
+                    </div>
+                    <div className="testimonial-one__client-img">
+                        <img src={testimonialImg4} alt="Testimonial from Mainto Vula" />
+                    </div>
+                    <div className="testimonial-one__ratting">
+                        <span className="icon-star" />
+                        <span className="icon-star" />
+                        <span className="icon-star" />
+                        <span className="icon-star" />
+                        <span className="icon-star last-star" />
+                    </div>
+                    <h3 className="testimonial-one__client-name">
+                        Abhishek Kushwaha
+                    </h3>
+                    <p className="testimonial-one__client-sub-title">
+                        Technical Support 
                     </p>
                     <p className="testimonial-one__text">
                         Logistic service involves the planning implementation and control of the efficient and effective movement and storage of goods and materials.

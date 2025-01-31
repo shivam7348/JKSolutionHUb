@@ -17,8 +17,8 @@ const Features = ( ) => {
             videoId="jNQXAC9IVRw" // YouTube video ID
             videoCaption="Watch our video"
             tagline="Our Features"
-            title="Simplifying your logistics of the challenges"
-            description="Logistic service involves the planning, implementation, and control of the efficient and effective movement and storage of goods and materials."
+            title="JK Digital SolutionsHub: Your Partner in Digital Innovation and Growth"
+            description="At JK Digital SolutionsHub, we blend technical expertise with creative thinking to deliver digital solutions that are not only functional but also visually stunning. Our team of developers, designers, and strategists work together to create unique, user-centric experiences that leave a lasting impression.."
             counters={counters}
         />
         {/*Message One End */}

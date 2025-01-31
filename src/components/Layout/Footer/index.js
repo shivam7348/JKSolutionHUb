@@ -53,7 +53,7 @@ const Footer = ({
                                 <div className="footer-widget__column footer-widget__about">
                                     <div className="footer-widget__logo">
                                         <Link to="/">
-                                            <img src={footerLogo} alt="Logo" />
+                                            {/* <img src={footerLogo} alt="Logo" /> */}
                                         </Link>
                                     </div>
                                     <p className="footer-widget__about-text">
