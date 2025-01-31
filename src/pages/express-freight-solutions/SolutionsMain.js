@@ -48,23 +48,24 @@ const SolutionsMain = () => {
   };
 
   const details = {
-    title: "Cultivate Success with Agriculture",
+    title: "Why JK Digital SolutionsHub is Your Ultimate Partner in Digital Innovation and Growth.",
     text1:
-      "Logistics service involves the planning, implementation, and control of the efficient and effective transportation, storage, and distribution of goods and materials...",
+      "In today’s fast-paced digital world, businesses need more than just a service provider—they need a partner who understands their vision and can help them achieve it. That’s where JK Digital SolutionsHub comes in.",
     image1: detailsImg,
     serviceBoxes: [
       {
-        icon: "icon-airplane",
-        title: "Rapid Delivery Services",
+        // icon: "icon-airplane",
+        title: "Client-Centric Approach",
         link: "#",
         text: "Construction is an essential industry that involves building and designing...",
       },
       {
-        icon: "icon-lift-truck",
-        title: "Quick Move Logistics",
+        // icon: "icon-lift-truck",
+        title: "Expert Team",
         link: "#",
         text: "Construction is an essential industry that involves building and designing...",
       },
+    
     ],
     text2:
       "Logistics service involves the planning, implementation, and control of the efficient and effective transportation, storage, and distribution of goods and materials...",
